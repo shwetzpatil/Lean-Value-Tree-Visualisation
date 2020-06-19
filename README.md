@@ -1,4 +1,4 @@
-# Lean-Value-Tree-Visualisation
+# Lean-Value-Tree-Visualisation (LVT)
 
 This is a tool to create a visualisation of a Lean Value Tree from a json file. It will display a hierarchical tree structure in which nodes represent points in the tree.
 It uses Google Charts' [Organization Chart](https://developers.google.com/chart/interactive/docs/gallery/orgchart) to visualise the tree structure and Newtonsoft's [Json.NET Serializer](https://www.newtonsoft.com/json) to parse json files containing the LVT data.
